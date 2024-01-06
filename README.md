@@ -113,7 +113,7 @@ https://github.com/Teknasyon/assessments-react-native/assets/866558/0323671b-a32
 
 ## Your Questions
 
-You can send your questions regarding the assessments to [eser@teknasyon.com](mailto:eser@teknasyon.com).
+Reach Us !
 
 
 ## License
